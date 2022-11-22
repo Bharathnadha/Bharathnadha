@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bharath Nadha Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Automation Testing from India</h3>
 <img align="right" alt="codind width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathnadha&label=Profile%20views&color=0e75b6&style=flat" alt="bharathnadha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bharath 1803" target="blank"><img src="https://img.shields.io/twitter/follow/bharath 1803?logo=twitter&style=for-the-badge" alt="bharath 1803" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **DXC Technologies **
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Selenium**
 
 - 📫 How to reach me **bharathnadhareddy@gmail.com**
 
